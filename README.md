@@ -72,9 +72,11 @@ I enjoy solving problems by building applications that are **useful, scalable, a
 
 ProjectBro is a platform that helps students and developers **manage, organize, and showcase their academic and technical projects in one place**.
 
-🌐 Live Website
+🌐 **Live Website:**  
 https://projectbro.online
 
+⚠️ **If the main site is blocked on institutional or restricted networks, use the alternative link:**  
+https://projectpro-4eaab.web.app/
 ---
 
 ### 🚚 Ziffy
