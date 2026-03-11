@@ -121,10 +121,10 @@ A civic issue reporting platform where citizens can **report public infrastructu
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mohamed-sabeek&theme=algolia&no-frame=true&margin-w=10&row=1&column=6"/>
-</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-sabeek&theme=tokyonight"/>
+</p>
 ---
 
 # 🐍 Contribution Snake
