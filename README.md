@@ -95,9 +95,9 @@ A civic issue reporting platform where citizens can **report public infrastructu
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-sabeek&show_icons=true&theme=tokyonight&border_radius=10"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-sabeek&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -107,7 +107,7 @@ A civic issue reporting platform where citizens can **report public infrastructu
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-sabeek&theme=tokyo-night"/>
 
 </p>
 
@@ -116,7 +116,7 @@ A civic issue reporting platform where citizens can **report public infrastructu
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mohamed-sabeek&theme=algolia&row=1&column=6"/>
 </p>
 
 ---
@@ -125,7 +125,7 @@ A civic issue reporting platform where citizens can **report public infrastructu
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Mohamed-sabeek/Mohamed-sabeek/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
