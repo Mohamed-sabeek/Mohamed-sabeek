@@ -3,9 +3,10 @@
 <h3 align="center">Founder of ProjectBro</h3>
 
 <p align="center">
-🌐 https://projectbro.online
-🌐 https://projectpro-4eaab.web.app/
+🌐 <a href="https://projectbro.online">projectbro.online</a>  
+🌐 <a href="https://projectpro-4eaab.web.app/">projectpro-4eaab.web.app</a>
 </p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Real+World+Applications;MERN+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
@@ -60,8 +61,9 @@ I enjoy solving problems by building applications that are **useful, scalable, a
 
 ### Additional Tools
 
-- ThunderClient  
-- REST API Development
+* ThunderClient
+* REST API Development
+
 ---
 
 # 🚀 Major Projects
@@ -70,30 +72,32 @@ I enjoy solving problems by building applications that are **useful, scalable, a
 
 ProjectBro is a platform that helps students and developers **manage, organize, and showcase their academic and technical projects in one place**.
 
-🌐 Live Website: https://projectbro.online
+🌐 Live Website
+https://projectbro.online
+
 ---
 
 ### 🚚 Ziffy
 
-A **grocery mobile application** built using **React Native and Firebase** for a smooth and secure mobile shopping experience.
+A **grocery mobile application** built using **React Native and Firebase**, designed to provide a smooth and secure shopping experience on mobile devices.
 
 ---
 
 ### 📚 TNPSC Preparation Platform
 
-A learning platform that helps students prepare for **TNPSC competitive exams** with structured resources.
+A learning platform developed to help students prepare for **TNPSC competitive exams** with structured study resources.
 
 ---
 
 ### 🐾 PetCare
 
-A digital platform that connects users with **pet care services and resources**.
+A digital platform that connects users with **pet care services and resources**, improving accessibility to pet-related support.
 
 ---
 
 ### 🌍 CivicPulse
 
-A civic issue reporting platform where citizens can **report public infrastructure issues** such as potholes and garbage.
+A civic issue reporting platform where citizens can **report public infrastructure issues such as potholes, garbage problems, and other local concerns**.
 
 ---
 
@@ -119,12 +123,12 @@ A civic issue reporting platform where citizens can **report public infrastructu
 
 ---
 
-## 🏆 GitHub Achievements
-
+# 🏆 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-sabeek&theme=tokyonight"/>
 </p>
+
 ---
 
 # 🐍 Contribution Snake
@@ -139,10 +143,10 @@ A civic issue reporting platform where citizens can **report public infrastructu
 
 # 🎯 Goals
 
-🚀 Build impactful **web platforms**
-📚 Improve **full stack engineering skills**
-🌍 Contribute to **open source projects**
-⚡ Develop **scalable real-world systems**
+* 🚀 Build impactful **web platforms**
+* 📚 Improve **full stack engineering skills**
+* 🌍 Contribute to **open source projects**
+* ⚡ Develop **scalable real-world systems**
 
 ---
 
