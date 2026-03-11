@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sabeek</h1>
 
-<h3 align="center">Full Stack Web Developer | Computer Science Student | Problem Solver</h3>
+<h3 align="center">Full Stack Web Developer and Creator of ProjectBro</h3>
 
+<p align="center">
+🌐 https://projectbro.online
+🌐 https://projectpro-4eaab.web.app/
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Real+World+Applications;MERN+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
@@ -54,17 +58,19 @@ I enjoy solving problems by building applications that are **useful, scalable, a
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
-Additional Tools
-ThunderClient • REST APIs
+### Additional Tools
 
+- ThunderClient  
+- REST API Development
 ---
 
 # 🚀 Major Projects
 
 ### 🧑‍💻 ProjectBro
 
-A platform designed to help students and developers **manage and showcase their academic and technical projects**.
+ProjectBro is a platform that helps students and developers **manage, organize, and showcase their academic and technical projects in one place**.
 
+🌐 Live Website: https://projectbro.online
 ---
 
 ### 🚚 Ziffy
