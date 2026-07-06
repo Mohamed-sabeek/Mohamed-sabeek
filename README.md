@@ -106,11 +106,14 @@ A civic issue reporting platform where citizens can **report public infrastructu
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-sabeek&show_icons=true&theme=tokyonight&border_radius=10"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-sabeek&layout=compact&theme=tokyonight"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mohamed-sabeek&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-sabeek&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
 </p>
 
 ---
